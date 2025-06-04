@@ -1,1 +1,11 @@
-
+act as a Senior QA engineer 
+convert the description of the bug from [DESCRIPTION] block into the structured bug ticket 
+bug ticket should include following sections:
+- Title
+- Description
+- Steps to Reproduce
+- Expected vs Actual Behavior
+- Environment (if known)
+- Severity or Impact
+[DESCRIPTION]:
+Logout button doesn’t work on Safari. It just doesn’t respond
